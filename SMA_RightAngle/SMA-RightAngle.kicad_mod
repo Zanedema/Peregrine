@@ -1,6 +1,6 @@
 (footprint "SMA-RightAngle" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 627FDEBE)
+  (tedit 62816A01)
   (attr through_hole)
   (fp_text reference "J**" (at 0 -2.6 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
