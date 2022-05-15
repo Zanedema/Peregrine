@@ -1,4 +1,4 @@
-20120952917497447
+20127562325702438
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56503,6 +56503,13 @@ solder jumper open
 0
 5
 3
+KLDX-0202-A
+KLDX-0202-A
+
+
+0
+3
+2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -75746,6 +75753,13 @@ logoWithText2Mask
 0
 0
 0
+QuarterWave
+logoWithText12mm
+
+
+0
+0
+0
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -78630,6 +78644,13 @@ rotary encoder
 0
 5
 4
+SMA_RightAngle
+SMA-RightAngle
+
+
+0
+5
+2
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -85637,3 +85658,10 @@ varistor SIOV
 0
 2
 2
+ul_JS102011SCQN
+JS102011SCQN
+
+
+0
+3
+3
