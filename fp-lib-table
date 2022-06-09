@@ -1,5 +1,5 @@
 (fp_lib_table
-  (lib (name "SMA_RightAngle")(type "KiCad")(uri "${KIPRJMOD}/SMA_RightAngle")(options "")(descr ""))
   (lib (name "KLDX-0202-A")(type "KiCad")(uri "${KIPRJMOD}/KLDX-0202-A")(options "")(descr ""))
   (lib (name "ul_JS102011SCQN")(type "KiCad")(uri "${KIPRJMOD}/ul_JS102011SCQN/KiCAD/footprints.pretty")(options "")(descr ""))
+  (lib (name "CONSMA020")(type "KiCad")(uri "${KIPRJMOD}/CONSMA020.062-G")(options "")(descr ""))
 )

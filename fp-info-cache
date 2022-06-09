@@ -1,4 +1,4 @@
-20129217673678195
+20132531642635260
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2364,6 +2364,13 @@ Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/pr
 speaker CUI
 0
 2
+2
+CONSMA020
+LINX_CONSMA020.062-G
+
+
+0
+5
 2
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
@@ -75761,7 +75768,21 @@ logoWithText2Mask
 0
 0
 QuarterWave
+logoWithText12mm
+
+
+0
+0
+0
+QuarterWave
 logoWithText12mmMask
+
+
+0
+0
+0
+QuarterWave
+logoWithText12mmPartialMask
 
 
 0
@@ -78651,13 +78672,6 @@ rotary encoder
 0
 5
 4
-SMA_RightAngle
-SMA-RightAngle
-
-
-0
-5
-2
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
