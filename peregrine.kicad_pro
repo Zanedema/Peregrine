@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.65,
-          "width": 1.56
+          "height": 0.95,
+          "width": 0.975
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -63,7 +63,7 @@
         "annular_width": "error",
         "clearance": "error",
         "copper_edge_clearance": "error",
-        "courtyards_overlap": "warning",
+        "courtyards_overlap": "ignore",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
@@ -121,7 +121,7 @@
       "track_widths": [
         0.0,
         0.29337,
-        0.34036,
+        0.4,
         0.635,
         1.016
       ],
@@ -435,6 +435,22 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "0a5e3a80-743e-4487-bac8-71993d99107d",
+      "peregrineTrigger"
+    ],
+    [
+      "017a7265-7e57-48f3-a151-d8e0f0b77e7f",
+      "peregrinePulser"
+    ],
+    [
+      "84f8d91e-bee4-401a-8497-2ef880305b7d",
+      "peregrineSelector"
+    ],
+    [
+      "cadf9dbb-ba3f-4f30-9dbf-05f970183320",
+      "peregrinePowerSupply"
     ]
   ],
   "text_variables": {}
